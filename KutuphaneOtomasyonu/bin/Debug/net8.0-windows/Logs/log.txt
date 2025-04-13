@@ -1,0 +1,76 @@
+[2025-04-13 15:31:19] Tüm veriler sıfırlandı. Tablolar temizlendi, loglar silindi, sistem yeniden doğdu.
+[2025-04-13 15:34:32] Kategori eklendi: Roman
+[2025-04-13 15:34:35] Kategori eklendi: Bilim
+[2025-04-13 15:34:39] Kategori eklendi: Tarih
+[2025-04-13 15:34:43] Kategori eklendi: Felsefe
+[2025-04-13 15:34:46] Kategori eklendi: Polisiye
+[2025-04-13 15:34:50] Kategori eklendi: Korku
+[2025-04-13 15:34:53] Kategori eklendi: Fantastik
+[2025-04-13 15:34:57] Kategori eklendi: Biyografi
+[2025-04-13 15:35:01] Kategori eklendi: Kişisel Gelişim
+[2025-04-13 15:35:05] Kategori eklendi: Çocuk
+[2025-04-13 15:35:08] Kategori eklendi: Psikoloji
+[2025-04-13 15:35:11] Kategori eklendi: Edebiyat
+[2025-04-13 15:35:15] Kategori eklendi: Sanat
+[2025-04-13 15:35:17] Kategori eklendi: Din
+[2025-04-13 15:35:20] Kategori eklendi: Siyaset
+[2025-04-13 15:35:23] Kategori eklendi: Ekonomi
+[2025-04-13 15:35:26] Kategori eklendi: Teknoloji
+[2025-04-13 15:35:30] Kategori eklendi: Sağlık
+[2025-04-13 15:35:33] Kategori eklendi: Mitoloji
+[2025-04-13 15:35:38] Kategori eklendi: Bilim Kurgu
+[2025-04-13 15:36:10] Yeni kitap eklendi: Suç ve Ceza - Fyodor Dostoyevski (1866) [Roman]
+[2025-04-13 15:36:22] Yeni kitap eklendi: Simyacı - Paulo Coelho (1988) [Roman]
+[2025-04-13 15:36:35] Yeni kitap eklendi: Zamanın Kısa Tarihi - Stephen Hawking (1988) [Bilim]
+[2025-04-13 15:36:44] Yeni kitap eklendi: Kozmos - Carl Sagan (1980) [Bilim]
+[2025-04-13 15:36:54] Yeni kitap eklendi: Nutuk - Mustafa Kemal Atatürk (1927) [Tarih]
+[2025-04-13 15:37:09] Yeni kitap eklendi: Medeniyetler Çatışması - Samuel Huntington (1996) [Tarih]
+[2025-04-13 15:37:23] Yeni kitap eklendi: Sokrates’in Savunması - Platon (-399) [Felsefe]
+[2025-04-13 15:37:33] Yeni kitap eklendi: Varoluşçuluk - Jean-Paul Sartre (1943) [Felsefe]
+[2025-04-13 15:37:48] Yeni kitap eklendi: Sherlock Holmes: Kızıl Dosya - Arthur Conan Doyle (1887) [Polisiye]
+[2025-04-13 15:38:02] Yeni kitap eklendi: Agatha’nın Elmasları - Agatha Christie (1937) [Polisiye]
+[2025-04-13 15:38:14] Yeni kitap eklendi: Dr. Jekyll ile Mr. Hyde - R.L. Stevenson (1886) [Korku]
+[2025-04-13 15:38:30] Yeni kitap eklendi: Hayaletin Çırağı - Joseph Delaney (2004) [Korku]
+[2025-04-13 15:38:41] Yeni kitap eklendi: Yüzüklerin Efendisi - J.R.R. Tolkien (1954) [Fantastik]
+[2025-04-13 15:38:55] Yeni kitap eklendi: Ejderha Mızrağı Günlükleri - Margaret Weis (1984) [Fantastik]
+[2025-04-13 15:39:05] Yeni kitap eklendi: Atatürk - Andrew Mango (1999) [Biyografi]
+[2025-04-13 15:39:16] Yeni kitap eklendi: Tesla: Dahi'nin Biyografisi - Margaret Cheney (1981) [Biyografi]
+[2025-04-13 15:39:27] Yeni kitap eklendi: Ustalık Gerektiren Kafaya Takmama Sanatı - Mark Manson (2016) [Kişisel Gelişim]
+[2025-04-13 15:39:39] Yeni kitap eklendi: Savaşçı - Doğan Cüceloğlu (2001) [Kişisel Gelişim]
+[2025-04-13 15:39:53] Yeni kitap eklendi: Küçük Prens - Antoine de Saint-Exupéry (1943) [Çocuk]
+[2025-04-13 15:40:05] Yeni kitap eklendi: Charlie'nin Çikolata Fabrikası - Roald Dahl (1964) [Çocuk]
+[2025-04-13 15:40:17] Yeni kitap eklendi: İnsan Olmak - Engin Geçtan (2000) [Psikoloji]
+[2025-04-13 15:40:32] Yeni kitap eklendi: Duygusal Zeka - Daniel Goleman (1995) [Psikoloji]
+[2025-04-13 15:40:44] Yeni kitap eklendi: Türk Edebiyatında Hikaye - Mehmet Kaplan (1962) [Edebiyat]
+[2025-04-13 15:40:57] Yeni kitap eklendi: Sessiz Ev - Orhan Pamuk (1983) [Edebiyat]
+[2025-04-13 15:45:21] Yeni üye eklendi: Ahmet Yılmaz
+[2025-04-13 15:45:24] Yeni üye eklendi: Gökçe Koca
+[2025-04-13 15:45:27] Yeni üye eklendi: Elif Demir
+[2025-04-13 15:45:31] Yeni üye eklendi: Mehmet Çetin
+[2025-04-13 15:45:33] Yeni üye eklendi: Ayşe Yalçın
+[2025-04-13 15:45:36] Yeni üye eklendi: Mustafa Arslan
+[2025-04-13 15:45:40] Yeni üye eklendi: Zeynep Aydın
+[2025-04-13 15:45:43] Yeni üye eklendi: Burak Kaplan
+[2025-04-13 15:45:46] Yeni üye eklendi: Kübra Şahin
+[2025-04-13 15:45:50] Yeni üye eklendi: Emir Karaca
+[2025-04-13 15:45:53] Yeni üye eklendi: Melis Aksoy
+[2025-04-13 15:45:58] Yeni üye eklendi: Eren Duran
+[2025-04-13 15:46:01] Yeni üye eklendi: Cansu Ergin
+[2025-04-13 15:46:07] Yeni üye eklendi: Hakan Polat
+[2025-04-13 15:46:11] Yeni üye eklendi: Merve Soylu
+[2025-04-13 15:46:14] Yeni üye eklendi: Onur Yıldız
+[2025-04-13 15:46:17] Yeni üye eklendi: Sude Güner
+[2025-04-13 15:46:20] Yeni üye eklendi: Berk Kara
+[2025-04-13 15:46:24] Yeni üye eklendi: İlayda Öztürk
+[2025-04-13 15:46:26] Yeni üye eklendi: Okan Uçar
+[2025-04-13 15:46:29] Yeni üye eklendi: Dilan Taş
+[2025-04-13 15:46:32] Yeni üye eklendi: Kerem Tuncel
+[2025-04-13 15:46:37] Yeni üye eklendi: İrem Özer
+[2025-04-13 15:46:40] Yeni üye eklendi: Yiğit Can
+[2025-04-13 15:46:43] Yeni üye eklendi: Tuğba Sezer
+[2025-04-13 15:47:09] Kitap ödünç verildi → Kitap: 'Agatha’nın Elmasları', Üye: 'Gökçe Koca', Tarih: 2025-04-13
+[2025-04-13 15:47:15] Kitap ödünç verildi → Kitap: 'Atatürk', Üye: 'Eren Duran', Tarih: 2025-04-13
+[2025-04-13 15:47:18] Kitap ödünç verildi → Kitap: 'Ustalık Gerektiren Kafaya Takmama Sanatı', Üye: 'Ahmet Yılmaz', Tarih: 2025-04-13
+[2025-04-13 15:47:23] Kitap ödünç verildi → Kitap: 'Ejderha Mızrağı Günlükleri', Üye: 'Elif Demir', Tarih: 2025-04-13
+[2025-04-13 15:47:25] Kitap ödünç verildi → Kitap: 'Savaşçı', Üye: 'Mehmet Çetin', Tarih: 2025-04-13
+[2025-04-13 15:47:39] Kitap teslim edildi → Kitap: Agatha’nın Elmasları | Üye: Gökçe Koca | Tarih: 2025-04-13
